@@ -1,0 +1,14 @@
+.fi {
+	box-shadow: 0 0 0.35em rgba(0, 0, 0, 0.175);
+	vertical-align: middle;
+	position: relative;
+	top: -0.0925em;
+	display: inline-block !important;
+	width: 1.33333333em !important;
+	height: 1em !important;
+	background-size: cover !important;
+	background-position: center !important;
+	object-fit: cover !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
